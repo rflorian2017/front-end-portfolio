@@ -48,3 +48,11 @@ footer ul li {
     display: inline;
     text-align: center;
 }
+
+.col-4 {
+    width: 33.33%;
+}
+
+.featured-work {
+    font-size: 30px;
+}
